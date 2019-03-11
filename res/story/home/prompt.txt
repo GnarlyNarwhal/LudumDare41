@@ -1,0 +1,25 @@
+15 1 2
+USERNAME
+USERNAME@comp:~/$ ls
+/Downloads
+/Desktop
+/Documents
+/Music
+/Photos
+/Public
+/Templates
+/Videos
+mlg_360_quick_scope.ogg
+player_control.sh
+README.txt
+
+What would you like to do?
+
+open README.txt
+1
+2 0
+~README
+chmod player_control.sh
+4
+0 0
+player_color

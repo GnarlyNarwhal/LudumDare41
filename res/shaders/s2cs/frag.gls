@@ -1,0 +1,13 @@
+#version 330 core
+
+uniform sampler2D sampler;
+
+uniform vec4 iColor = vec4(1, 1, 1, 1);
+
+in vec2 texCoords;
+
+out vec4 color;
+
+void main() {
+	color = texture(sampler, texCoords) * iColor;
+}

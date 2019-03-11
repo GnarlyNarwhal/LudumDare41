@@ -1,0 +1,16 @@
+11 0 1
+Dear Future Self
+
+Ok now you'll never forget. Network admin passwords are located in /usr/admin.
+You can type 'cd /usr/admin' from anywhere to get there. Also you can use the run
+command to use PasswordHax.out.
+
+                                                        Sincerely,
+                                                           Forgetful Network Admin
+
+What do you want to do?
+
+exit
+1
+2 0
+downloads

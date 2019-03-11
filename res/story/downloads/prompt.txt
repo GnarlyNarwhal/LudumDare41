@@ -1,0 +1,40 @@
+22 1 4
+USERNAME
+USERNAME@comp:~/Downloads$ ls
+/Ludum Dare 41
+/LD40
+/Cornbread
+/Existential Crisis
+/not_a_virus
+Ludum Dare 41.tar.gz
+Bulldozer.jar
+minecraft.out
+IMG0407923.jpg
+Half Slab.png
+Turkish Prison.png
+PasswordHaxz.out
+SupreSmeshBras.1.2.out
+eclipse-inst-linux64.out
+mingw-get-setup.out
+README.txt
+
+What would you like to do?
+Hint:
+ - cd not_a_virus
+
+cd not_a_virus
+1
+2 0
+not_a_virus
+cd ../
+1
+2 0
+home
+open README.txt
+1
+2 0
+README
+run PasswordHaxz.out
+1
+2 0
+jungle

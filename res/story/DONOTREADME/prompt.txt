@@ -1,0 +1,19 @@
+13 1 1
+USERNAME
+Well well well. We meet at last USERNAME. Took you long enough to find me.
+Well no matter it's too late for yo u to stop me. I've already planted myself'
+in your /root dircetory. I've also breached FIREWALL 1 - 4 and I will
+be breach number 5 soon. Good luck stopping me. You don't even have the
+administrator password let alone your network admin password. You'll
+never delete me from root or close the FIREWALL holes before I break FIREWALL 5.
+Well would love to stay and chat but I have a FIREWALL to get through and data
+to steal. Have fun storming the castle!
+
+What would you like to do?
+Hint:
+ - exit
+
+exit
+1
+2 0
+not_a_virus

@@ -1,0 +1,11 @@
+3 0 1
+Please login.
+Enter your username (limit 8 characters):
+
+default
+2
+1 8
+USERNAME
+2 0
+password
+

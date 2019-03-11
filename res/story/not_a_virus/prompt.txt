@@ -1,0 +1,21 @@
+11 1 2
+USERNAME
+USERNAME@comp:~/Downloads/not_a_virus$ ls
+/not_your_data
+totally_legit.out
+free_gems.so
+DONOTREADME.txt
+
+What would you like to do?
+Hint:
+ - cd ../
+ - open DONOTREADME.txt
+
+cd ../
+1
+2 0
+downloads
+open DONOTREADME.txt
+1
+2 0
+DONOTREADME

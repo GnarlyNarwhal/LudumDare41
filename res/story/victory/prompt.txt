@@ -1,0 +1,8 @@
+5 1 0
+USERNAME
+Oi you again! What are you doing here? The dev ran out of time and had to end the
+game way early? Well then heck this heck I'm out. Toodles!
+
+YOU WIN! USERNAME is the wiiiner!
+
+Type 'quit' to quit.

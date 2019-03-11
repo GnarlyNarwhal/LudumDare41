@@ -1,0 +1,16 @@
+#version 330 core
+
+uniform mat4 mvp;
+
+uniform vec2 offset;
+uniform vec2 dims;
+
+layout (location = 0) in vec3 vertices;
+layout (location = 1) in vec2 itexCoords;
+
+out vec2 texCoords;
+
+void main() {
+	texCoords = itexCoords * dims + offset;
+	gl_Position = mvp * vec4(vertices, 1);
+}

@@ -1,0 +1,9 @@
+4 0 1
+.sh are shell scripts. typing 'chmod script_name.sh' adds it to your list of global commmands.
+
+What do you want to do?
+
+exit
+1
+2 0
+home
